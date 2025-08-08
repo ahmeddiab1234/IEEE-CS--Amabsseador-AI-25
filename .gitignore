@@ -1,3 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
 * Ahmed_Diab.docx
+*.csv
+*.tsv
+*.zip
