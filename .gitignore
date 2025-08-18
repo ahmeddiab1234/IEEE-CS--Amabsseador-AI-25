@@ -3,5 +3,6 @@ __pycache__/
 * Ahmed_Diab.docx
 *.csv
 *.tsv
+*.xlsx
 *.zip
 *.docx
