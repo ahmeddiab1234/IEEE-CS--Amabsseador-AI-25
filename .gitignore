@@ -9,4 +9,5 @@ __pycache__/
 
 ####################33
 
-!data/car_price_Dataset.csv
+!car_price_Dataset.csv
+!car_price_clean.csv
